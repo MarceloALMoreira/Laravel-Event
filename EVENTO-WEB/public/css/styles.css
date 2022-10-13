@@ -186,6 +186,13 @@
   .dashboard-events-container form{
     display: inline-block;
   }
+
+  /* Edit paga */
+  .img-preview{
+    width: 100px;
+    margin-top: 20px;
+    border-radius: 8px;
+  }
   
   #info-container ion-icon {
     font-size: 20px;
